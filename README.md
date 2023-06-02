@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- 
 **dorutiuga/dorutiuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<a href="https://app.daily.dev/dorutiuga"><img src="https://api.daily.dev/devcards/66140c36d21f46dbaf5e91fe63ce30bf.png?r=yck" width="400" alt="Dorut Iuga's Dev Card"/></a>
